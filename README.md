@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/himani979/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/himani979/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/himani979/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0389-find-the-difference](https://github.com/himani979/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/himani979/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/himani979/Leetcode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/himani979/Leetcode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/himani979/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/himani979/Leetcode/tree/master/0389-find-the-difference) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himani979/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/himani979/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->

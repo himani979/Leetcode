@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/himani979/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/himani979/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himani979/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1207-unique-number-of-occurrences](https://github.com/himani979/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/himani979/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/himani979/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/himani979/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/himani979/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/himani979/Leetcode/tree/master/0389-find-the-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/himani979/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |

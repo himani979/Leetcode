@@ -84,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/himani979/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/himani979/Leetcode/tree/master/0007-reverse-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himani979/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/himani979/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/himani979/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/himani979/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himani979/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
